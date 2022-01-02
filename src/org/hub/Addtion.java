@@ -9,5 +9,9 @@ public class Addtion {
 			Addtion e =new Addtion();
 		e.add();
 		}
+		public void sub() {
+			System.out.println("sub");
 
+}	
 }
+
