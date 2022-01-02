@@ -9,7 +9,7 @@ public class Addtion {
 			Addtion e =new Addtion();
 		e.add();
 		}
-		public void sub() {
+		public void div() {
 			System.out.println("sub");
 }	
 		public void mul() {
