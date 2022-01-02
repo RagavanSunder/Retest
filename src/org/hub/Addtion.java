@@ -9,5 +9,7 @@ public class Addtion {
 			Addtion e =new Addtion();
 		e.add();
 		}
-
+public void kfhs() {
+System.out.println("ncjdbs");
+}
 }
