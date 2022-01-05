@@ -2,7 +2,7 @@ package org.hub;
 
 
 public class Addtion {
-	public void add() {
+	public void addition() {
 		System.out.println("add");
 		}
 		public static void main(String[] args) {
